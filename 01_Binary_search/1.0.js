@@ -1,22 +1,31 @@
-function binary_search(list, item) {
-    let low = 0
-    let high = list.length - 1
+function binary_search(arr, item) {
 
-    while(low < high) {
-        let mid = Math.floor((low + high)/2)
-        let guess = list[mid]
-
+    // array should be sorted before you calculate
+    let lowest = 0
+    let highest = arr.length - 1
+    let count = 0
+    let mid = Math.floor((lowest + highest) / 2)
+    let guess = arr[mid]
+    while(lowest <= highest) {
+        mid = Math.floor((lowest + highest) / 2)
+        guess = arr[mid]
         if (guess === item) {
+            count++;
             return mid
-        } else if (guess > item) {
-            high = mid - 1
+
+        } else if (guess < item) {
+
+            lowest = mid + 1
+            count++
         } else {
-            low = mid + 1
+            highest = mid - 1
+            count++;
         }
     }
-    return null
+    return -1
+
+
 }
 
-let ans = binary_search([1, 2, 5, 6, 7, 9], 7)
-
+let ans = binary_search([0, 1, 2, 3, 4, 5], 9)
 console.log(ans)

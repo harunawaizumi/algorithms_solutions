@@ -1,23 +1,36 @@
 function binary_search(num, item) {
-    let low = 0
-    let high = num
+    let array = create_array(num)
+    let lowest = 0
+    let highest = num - 1
+    let mid = 0
+    let guess = array[mid]
     let count = 0
-
-    while(low < high) {
-        let mid = Math.floor((low + high) / 2)
-        if (mid < item) {
-            low = mid + 1
-            count++;
-        } else if (mid === item) {
+    while(lowest <= highest) {
+        mid = Math.floor((lowest + highest) / 2)
+        guess = array[mid]
+        console.log(array, mid, guess)
+        if (item === guess) {
+            count++
             return count
-        } else {
-            high = mid - 1
+        } else if (item < guess) {
             count++;
+            highest = mid - 1
+        } else {
+            count++;
+            lowest = mid + 1
         }
     }
     return count
-
 }
+
+function create_array(num) {
+    let arr = []
+    for(let i = 1; i < num; i++) {
+        arr.push(i)
+    }
+    return arr
+}
+
 
 const ans = binary_search(128, 128)
 console.log(ans)
