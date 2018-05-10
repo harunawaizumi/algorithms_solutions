@@ -55,7 +55,7 @@ Node.prototype.visit = function() {
 }
 let tree =new Tree()
 for(let i = 0; i < 100; i++) {
-    let item = Math.floor(Math.random(0, 100) * 100)
+    let item = Math.floor(Math.random() * 100)
     tree.addValue(item)
 }
 
