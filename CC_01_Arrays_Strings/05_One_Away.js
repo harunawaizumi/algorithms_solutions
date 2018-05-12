@@ -25,6 +25,23 @@ function do_remove_or_insert(longer, shorter) {
     return foundDifference
 }
 
+// author's answer
+function oneEditInsert(long, short) {
+    let indexl = 0
+    let indexs = 0
+    for (let i = 0; i < long.length; i++) {
+        if (long.charAt(indexl) !== short.charAt(indexs)) {
+            if (indexl !== indexs) return false
+            indexl++;
+        } else {
+            indexl++;
+            indexs++;
+        }
+    }
+    return true
+}
+
+
 function do_replace(first, second) {
     let foundDifference = false
     for(let i =0; i < first.length; i++) {

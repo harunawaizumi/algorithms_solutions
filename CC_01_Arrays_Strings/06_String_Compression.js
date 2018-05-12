@@ -1,3 +1,5 @@
+// Stringでもstr[i]でOK,　str.charAt(i)しなくてOK
+
 function string_compression(str) {
     let elm = str[0]
     let count = 0

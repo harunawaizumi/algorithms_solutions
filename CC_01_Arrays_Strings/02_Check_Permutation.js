@@ -1,3 +1,8 @@
+// Case Sensitive: STR.toLowerCase()
+// Permutation: 意味のある言葉を並べ替えたもの
+// Anagram: 文字を並べ替えたもの（意味がないランダムな言葉である可能性もある）
+// Anagram includes permutation
+
 // my answer O(2n)
 function count_str(str) {
     let obj = {}

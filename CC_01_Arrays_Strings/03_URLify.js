@@ -2,8 +2,6 @@
 function URLify(str) {
     let removed = remove_space_at_end(str)
     for(let i = 0; i <= removed.length - 1; i++) {
-
-
         if (removed.charAt(i) === ' ') {
             removed = removed.replace(removed.charAt(i), '%20')
             console.log(removed)
