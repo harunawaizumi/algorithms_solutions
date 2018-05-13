@@ -23,7 +23,7 @@ function Queue() {
     }
 
     this.pop = function(stackNum) {
-        if (isEmpty(stackNum)) {
+        if (this.isEmpty(stackNum)) {
             console.log('it is empty')
         } else {
             let topIndex = this.indexOfTop(stackNum)

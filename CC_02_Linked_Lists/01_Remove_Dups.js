@@ -12,7 +12,6 @@
 
 
 
-
 function remove_dups(node) {
     let current;
     while(current) {

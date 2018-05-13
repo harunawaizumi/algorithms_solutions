@@ -13,7 +13,7 @@ Tree.prototype.addValue = function(val) {
     if (this.root === null) {
         this.root = n
     } else {
-        this.root.addNode(n)
+        this.root.addNode(n) // NG: this.root.addNode = n
     }
 }
 
