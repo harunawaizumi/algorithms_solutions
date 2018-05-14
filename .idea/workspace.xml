@@ -3,10 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="d3d3cd45-13d3-42bb-974b-df3c6762d9ad" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CC_00_BigO/15_All_Fibonacci.js" beforeDir="false" afterPath="$PROJECT_DIR$/CC_00_BigO/15_All_Fibonacci.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CC_02_Linked_Lists/00_Basic.js" beforeDir="false" afterPath="$PROJECT_DIR$/CC_02_Linked_Lists/00_Basic.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CC_02_Linked_Lists/01_Remove_Dups.js" beforeDir="false" afterPath="$PROJECT_DIR$/CC_02_Linked_Lists/01_Remove_Dups.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CC_03_Stacks_and_Queues/01_There_in_One.js" beforeDir="false" afterPath="$PROJECT_DIR$/CC_03_Stacks_and_Queues/01_There_in_One.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CC_04_Trees_and_Graphs/00_Basic.js" beforeDir="false" afterPath="$PROJECT_DIR$/CC_04_Trees_and_Graphs/00_Basic.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CC_02_Linked_Lists/03_Delete_Middle_Node.js" beforeDir="false" afterPath="$PROJECT_DIR$/CC_02_Linked_Lists/03_Delete_Middle_Node.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CC_10_Sorting_and_Searching/00_Bubble_Sort.js" beforeDir="false" afterPath="$PROJECT_DIR$/CC_10_Sorting_and_Searching/00_Bubble_Sort.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CC_10_Sorting_and_Searching/02_Group_Anagrams.js" beforeDir="false" afterPath="$PROJECT_DIR$/CC_10_Sorting_and_Searching/02_Group_Anagrams.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,82 +21,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="00_Basic.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CC_03_Stacks_and_Queues/00_Basic.js">
+      <file leaf-file-name="05_Sparse_Search.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CC_10_Sorting_and_Searching/05_Sparse_Search.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-977" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="01_There_in_One.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CC_03_Stacks_and_Queues/01_There_in_One.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="135">
+              <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="02_Stack_Min.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CC_03_Stacks_and_Queues/02_Stack_Min.js">
+      <file leaf-file-name="02_List_Anagrams.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CC_10_Sorting_and_Searching/02_List_Anagrams.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+            <state relative-caret-position="735">
+              <caret line="49" column="48" selection-start-line="49" selection-start-column="48" selection-end-line="49" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="03_Stack_of_Plates.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CC_03_Stacks_and_Queues/03_Stack_of_Plates.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="04_Queue_via_Stacks.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CC_03_Stacks_and_Queues/04_Queue_via_Stacks.js">
+      <file leaf-file-name="02_Group_Anagrams.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CC_10_Sorting_and_Searching/02_Group_Anagrams.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+            <state relative-caret-position="525">
+              <caret line="35" column="2" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="00_Basic.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CC_02_Linked_Lists/00_Basic.js">
+      <file leaf-file-name="04_Palindrome_Permutation.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CC_01_Arrays_Strings/04_Palindrome_Permutation.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-338">
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
+            <state relative-caret-position="345">
+              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="01_Remove_Dups.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CC_02_Linked_Lists/01_Remove_Dups.js">
+      <file leaf-file-name="02_Check_Permutation.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CC_01_Arrays_Strings/02_Check_Permutation.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="180">
+              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="02_Return_Kth_to_Last.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CC_02_Linked_Lists/02_Return_Kth_to_Last.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="00_Basic.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CC_04_Trees_and_Graphs/00_Basic.js">
+      <file leaf-file-name="12_Permutation.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CC_00_BigO/12_Permutation.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-47">
-              <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+            <state relative-caret-position="270">
+              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="00_Check_Identical.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CC_04_Trees_and_Graphs/00_Check_Identical.js">
+      <file leaf-file-name="15_All_Fibonacci.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CC_00_BigO/15_All_Fibonacci.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="00_Bubble_Sort.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CC_10_Sorting_and_Searching/00_Bubble_Sort.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="00_Merge_Sort.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CC_10_Sorting_and_Searching/00_Merge_Sort.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="01_Sorted_Merge.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CC_10_Sorting_and_Searching/01_Sorted_Merge.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="22" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -122,7 +142,6 @@
         <option value="$PROJECT_DIR$/CC_01_Arrays_Strings/04_Palindrome_Permutation.js" />
         <option value="$PROJECT_DIR$/CC_01_Arrays_Strings/07_Rotate_Matrix.js" />
         <option value="$PROJECT_DIR$/CC_02_Linked_Lists/02_Return_Kth_to_Last.js" />
-        <option value="$PROJECT_DIR$/CC_02_Linked_Lists/03_Delete_Middle_Node.js" />
         <option value="$PROJECT_DIR$/CC_02_Linked_Lists/05_Sum_Lists.js" />
         <option value="$PROJECT_DIR$/CC_02_Linked_Lists/04_Partition.js" />
         <option value="$PROJECT_DIR$/CC_02_Linked_Lists/06_Palindrome.js" />
@@ -142,11 +161,9 @@
         <option value="$PROJECT_DIR$/CC_04_Trees_and_Graphs/00_Check_Identical.js" />
         <option value="$PROJECT_DIR$/CC_04_Trees_and_Graphs/10_Check_Subtree.js" />
         <option value="$PROJECT_DIR$/CC_04_Trees_and_Graphs/11_Random_Node.js" />
-        <option value="$PROJECT_DIR$/CC_10_Sorting_and_Searching/00_Bubble_Sort.js" />
         <option value="$PROJECT_DIR$/CC_10_Sorting_and_Searching/00_Merge_Sort.js" />
         <option value="$PROJECT_DIR$/CC_10_Sorting_and_Searching/01_Sorted_Merge.js" />
         <option value="$PROJECT_DIR$/CC_10_Sorting_and_Searching/04_Sorted_Searh_No_Size.js" />
-        <option value="$PROJECT_DIR$/CC_10_Sorting_and_Searching/02_Group_Anagrams.js" />
         <option value="$PROJECT_DIR$/CC_10_Sorting_and_Searching/02_List_Anagrams.js" />
         <option value="$PROJECT_DIR$/CC_10_Sorting_and_Searching/03_Search_in_Rotated_Array.js" />
         <option value="$PROJECT_DIR$/CC_10_Sorting_and_Searching/05_Sparse_Search.js" />
@@ -156,7 +173,6 @@
         <option value="$PROJECT_DIR$/CC_00_BigO/10_isPrime.js" />
         <option value="$PROJECT_DIR$/CC_00_BigO/11_Factorial.js" />
         <option value="$PROJECT_DIR$/CC_00_BigO/12_Permutation.js" />
-        <option value="$PROJECT_DIR$/CC_00_BigO/15_All_Fibonacci.js" />
         <option value="$PROJECT_DIR$/CC_01_Arrays_Strings/01_isUnique.js" />
         <option value="$PROJECT_DIR$/CC_01_Arrays_Strings/02_Check_Permutation.js" />
         <option value="$PROJECT_DIR$/CC_01_Arrays_Strings/06_String_Compression.js" />
@@ -166,6 +182,10 @@
         <option value="$PROJECT_DIR$/CC_03_Stacks_and_Queues/01_There_in_One.js" />
         <option value="$PROJECT_DIR$/CC_02_Linked_Lists/01_Remove_Dups.js" />
         <option value="$PROJECT_DIR$/CC_02_Linked_Lists/00_Basic.js" />
+        <option value="$PROJECT_DIR$/CC_02_Linked_Lists/03_Delete_Middle_Node.js" />
+        <option value="$PROJECT_DIR$/CC_10_Sorting_and_Searching/02_Group_Anagrams.js" />
+        <option value="$PROJECT_DIR$/CC_00_BigO/15_All_Fibonacci.js" />
+        <option value="$PROJECT_DIR$/CC_10_Sorting_and_Searching/00_Bubble_Sort.js" />
       </list>
     </option>
   </component>
@@ -182,9 +202,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="45" />
+    <option name="x" value="44" />
     <option name="y" value="23" />
-    <option name="width" value="738" />
+    <option name="width" value="1007" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectView">
@@ -192,13 +212,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="01_Binary_search" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -239,10 +263,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="permu&#9;FILE&#9;file:///Users/Haruna/Desktop/Code_Github/algorithms/CC_00_BigO/12_Permutation.js" />
+    <property name="SearchEverywhereHistoryKey" value="bubb&#9;null&#9;null&#10;fibo&#9;null&#9;null&#10;permu&#9;FILE&#9;file:///Users/Haruna/Desktop/Code_Github/algorithms/CC_00_BigO/12_Permutation.js" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -296,18 +321,22 @@
       <workItem from="1525959064113" duration="6479000" />
       <workItem from="1526090267870" duration="3537000" />
       <workItem from="1526134207768" duration="256000" />
-      <workItem from="1526165992173" duration="7324000" />
+      <workItem from="1526165992173" duration="7443000" />
+      <workItem from="1526203599980" duration="4766000" />
+      <workItem from="1526250472364" duration="3159000" />
+      <workItem from="1526258130515" duration="997000" />
+      <workItem from="1526261859162" duration="441000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78443000" />
+    <option name="totallyTimeSpent" value="87925000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-68" y="23" width="738" height="877" extended-state="0" />
+    <frame x="44" y="23" width="1007" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24932249" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16683218" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -357,24 +386,20 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CC_02_Linked_Lists/00_Basic.js">
+    <entry file="file://$PROJECT_DIR$/CC_02_Linked_Lists/01_Remove_Dups.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        <state relative-caret-position="240">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CC_03_Stacks_and_Queues/05_Sort_Stack.js">
+    <entry file="file://$PROJECT_DIR$/CC_10_Sorting_and_Searching/05_Sparse_Search.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_Breath_first_search/6.0_p110.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <caret line="13" column="43" lean-forward="true" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -455,39 +480,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CC_10_Sorting_and_Searching/00_Bubble_Sort.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" selection-start-line="25" selection-end-line="26" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CC_10_Sorting_and_Searching/00_Merge_Sort.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CC_10_Sorting_and_Searching/01_Sorted_Merge.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CC_10_Sorting_and_Searching/04_Sorted_Searh_No_Size.js" />
     <entry file="file://$PROJECT_DIR$/01_Binary_search/1.3.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CC_10_Sorting_and_Searching/02_Group_Anagrams.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -554,37 +551,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CC_10_Sorting_and_Searching/05_Sparse_Search.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="48" selection-end-column="40" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CC_10_Sorting_and_Searching/03_Search_in_Rotated_Array.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" selection-start-line="4" selection-end-line="25" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CC_10_Sorting_and_Searching/02_List_Anagrams.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="48" lean-forward="true" selection-start-line="49" selection-start-column="48" selection-end-line="49" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CC_00_BigO/15_All_Fibonacci.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -623,44 +593,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CC_01_Arrays_Strings/02_Check_Permutation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CC_00_BigO/12_Permutation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CC_01_Arrays_Strings/04_Palindrome_Permutation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CC_02_Linked_Lists/02_Return_Kth_to_Last.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CC_03_Stacks_and_Queues/00_Basic.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-977" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CC_03_Stacks_and_Queues/01_There_in_One.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
+        <state relative-caret-position="345">
           <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
@@ -672,9 +607,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CC_03_Stacks_and_Queues/03_Stack_of_Plates.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/CC_03_Stacks_and_Queues/04_Queue_via_Stacks.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -684,7 +616,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CC_04_Trees_and_Graphs/00_Basic.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-47">
+        <state relative-caret-position="195">
           <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
         </state>
       </provider>
@@ -698,15 +630,122 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CC_02_Linked_Lists/00_Basic.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-338">
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        <state relative-caret-position="750">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CC_02_Linked_Lists/01_Remove_Dups.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="240">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CC_02_Linked_Lists/02_Return_Kth_to_Last.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CC_02_Linked_Lists/03_Delete_Middle_Node.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CC_02_Linked_Lists/05_Sum_Lists.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="5" selection-start-line="38" selection-start-column="4" selection-end-line="45" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CC_02_Linked_Lists/06_Palindrome.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CC_10_Sorting_and_Searching/01_Sorted_Merge.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="22" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CC_10_Sorting_and_Searching/05_Sparse_Search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CC_10_Sorting_and_Searching/02_List_Anagrams.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="48" selection-start-line="49" selection-start-column="48" selection-end-line="49" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CC_10_Sorting_and_Searching/02_Group_Anagrams.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="2" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CC_01_Arrays_Strings/04_Palindrome_Permutation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CC_00_BigO/12_Permutation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CC_00_BigO/15_All_Fibonacci.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CC_10_Sorting_and_Searching/00_Merge_Sort.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CC_01_Arrays_Strings/02_Check_Permutation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CC_10_Sorting_and_Searching/00_Bubble_Sort.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
         </state>
       </provider>
     </entry>

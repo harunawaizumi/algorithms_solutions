@@ -6,6 +6,7 @@
 // 1: listをmapする
 // 2: チェックする際に一度abc順にsortする。もしsortしたワードがOBJにあった場合は、unshiftで追加。
 // 3: もしOBJにそのデータがない場合は、新しいpropertyを作成する必要がある。
+// O(n)
 function getAnagram(list) {
     let anagrams = {}
     let sortedString;

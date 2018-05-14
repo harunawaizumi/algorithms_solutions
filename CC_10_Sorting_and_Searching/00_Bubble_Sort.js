@@ -1,5 +1,9 @@
 // java: https://www.youtube.com/watch?v=6Gv8vg0kcHc
+
 // O(n^2)
+
+// compare the next each other
+// if the array is already sorted, swapping doesn't occur in one loop.
 
 function bubble_sort(array) {
     let swapped = true

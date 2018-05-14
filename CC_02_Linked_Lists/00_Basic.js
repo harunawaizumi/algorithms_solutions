@@ -29,48 +29,26 @@ LinkedList.prototype.add = function(element) {
     }
 }
 
-LinkedList.prototype.remove = function(index) {
-    // 1. curr, prev, nextが必要
-    let currentNode = this.head
-    let prevNode;
-    let currentIndex = 0
 
-    // 2. 長さによって対応を分ける
-    if (this.length === 0) {
-        return false
-    } else if (this.length === 1 || index === 0) {
-        return null
-    } else if (index > this.length) {
-        return false
+
+LinkedList.prototype.add = function(elem) {
+    let node = {
+        element: elem,
+        next: null
+    }
+
+    let currNode = this.head
+
+    if (this.head === null) {
+        this.head = node
     } else {
-
-        while(currentIndex < index) {
-            currentIndex++;
-            prevNode = currentNode
-            currentNode = currentNode.next
+        while (currNode.next) {
+            currNode = currNode.next
         }
-        prevNode.next = currentNode.next
-        this.length--;
+        currNode.next = node
     }
 }
 
-
-function check_duplicate(node) {
-    let currentIndex = 0
-    let currentNode = node.head
-    let prevNode;
-    let checked = []
-
-    while(currentNode) {
-        let elm = currentNode.element
-        if (checked.indexOf(elm) !== -1) {
-            prevNode.next = currentNode.next
-            node.length--
-        }
-        checked.push(currentNode.element)
-
-    }
-}
 
 let data = new LinkedList()
 data.add('a')

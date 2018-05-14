@@ -49,28 +49,21 @@ LinkedList.prototype.remove = function(index) {
 }
 
 
-function get_middle (node) {
-    if (node.head === null) {
+function deleteMiddleNode(node){
+    if (node === nulll || node.next === null) {
         return null
     }
-    if (node.head.next === null) {
-        return false
-    } else {
-
-        let currNode = node.head
-        let middNode = node.head
-        let index = 0
-
-
-        while(currNode !== null && currNode.next !== null) {
-            currNode = currNode.next.next
-            middNode = middNode.next
-            index++;
-        }
-        return node.remove(index)
+    let prev;
+    let curr = node
+    let runner = node
+    while (runner.next && runner.next.next) {
+        prev = curr
+        curr = curr.next
+        runner = runner.next.next
     }
+    prev.next = curr.next
+    return node
 }
-
 
 
 let node = new LinkedList()
@@ -81,5 +74,5 @@ node.add("d")
 node.add("e")
 node.add("f")
 node.add("g")
-get_middle(node)
+deleteMiddleNode(node)
 console.log(node)
