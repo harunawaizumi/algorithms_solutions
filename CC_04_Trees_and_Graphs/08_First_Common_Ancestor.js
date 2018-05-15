@@ -59,7 +59,7 @@ function first_common_ancestor(node, n1, n2) {
     let right = first_common_ancestor(node.right, n1, n2)
 
     // (3) To return the item
-    // 1:両方から値が返ってきた場合、そのノードがcommon anscestorになる
+    // 1:両方から値が返ってきた場合、そのノードがcommon ancestorになる
     if (left !== null && right !== null) return node;
     // 2:両方からnullが返ってきた場合、その上に応えがあるからnullを返してもっｔ上を探す必要がある。
     if (left === null && right === null) return null;

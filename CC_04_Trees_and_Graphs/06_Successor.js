@@ -1,4 +1,5 @@
 //The way of logic about Inorder Successor : https://www.youtube.com/watch?v=5cPbNCrdotA&t=7s
+// Recommended: https://www.youtube.com/watch?v=JdmAYw5h3G8
 function inOrderSuccessor(node) {
     if (n === null) return null;
     if (n.right != null) {

@@ -20,7 +20,7 @@ function createMinimalBST(arr, start, end) {
     let n = new Node(arr[mid])
     n.left = createMinimalBST(arr, start, mid - 1)
     n.right = createMinimalBST(arr, mid + 1, end)
-    return n
+    return n  // do not forget to return n
 }
 // given a sorted array
 let array = [1,2,3,4,5,6,7,8,9]
