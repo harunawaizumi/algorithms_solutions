@@ -27,3 +27,6 @@ function MagicIndex(arr, start, end) {
 let data = [-10, -5, 2, 2, 2, 3, 4, 7, 9, 12, 13]
 let ans = MagicIndex(data, 0, data.length)
 console.log(ans)
+
+// Count occurrences of a number in a sorted array with duplicates using Binary Search
+// https://www.youtube.com/watch?v=pLT_9jwaPLs

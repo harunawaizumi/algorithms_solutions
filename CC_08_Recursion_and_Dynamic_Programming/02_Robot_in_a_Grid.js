@@ -2,6 +2,8 @@
 // GeeksForGeeks
 // https://www.geeksforgeeks.org/count-possible-paths-top-left-bottom-right-nxm-matrix/
 
+
+// not recursive way
 function create_table(row,col) {
     let result = new Array(row)
     for(let i = 0; i < row; i++) {
@@ -29,3 +31,16 @@ function numberOfPaths(r, c) {
 
 
 numberOfPaths(5,3)
+
+
+// recursive way
+function RobotInaGrid(c, r) {
+    if (c === 1 || r === 1) {
+        return 1
+    } else {
+        return RobotInaGrid(c-1, r) + RobotInaGrid(c, r-1)
+    }
+}
+
+let ans = RobotInaGrid(3, 3)
+console.log(ans)
