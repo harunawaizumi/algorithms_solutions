@@ -1,5 +1,7 @@
 // My answer: O(n)
 // O(n) + extra space
+// https://www.geeksforgeeks.org/permutations-of-a-given-string-using-stl/
+
 function PermutationsWithoutDups(str) {
     let result = []
     for(let i = 0; i < str.length; i++) {
@@ -26,10 +28,10 @@ function getPerms(prefix, remainder, result) {
 
 
     for(let i = 0; i < remainder.length; i++) {
-        before = remainder.substring(0, i)
+        before = remainder.substring(0, i) // beforeとafterは使い回しをするから定義はfunctionの外で行う
         after = remainder.substring(i + 1)
         c = remainder.charAt(i)
-        getPerms(prefix + c, before + after, result)
+        getPerms(prefix + c, before + after, result) // ここにreturnを書いてしまうと次のターンに行かずに終わってしまうので注意
     }
     return result
 }

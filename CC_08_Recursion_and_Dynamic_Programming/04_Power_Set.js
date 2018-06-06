@@ -9,9 +9,12 @@ function all_subsets(arr) {
 }
 
 function helper(arr, subset, i) {
+    // base case
     if (i === arr.length) {
         console.log(subset)
-    } else {
+    }
+    //
+    else {
         subset[i] = null
         helper(arr, subset, i+1)
         subset[i] = arr[i]

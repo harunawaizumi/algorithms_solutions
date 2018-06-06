@@ -1,5 +1,7 @@
 // Author's answer :Solution #3
 
+// This answer is not optimized
+// https://www.geeksforgeeks.org/multiply-two-numbers-without-using-multiply-division-bitwise-operators-and-no-loops/
 // (1) Decide bigger/smaller - if smaller is 1, bigger is the return
 function RecursiveMultiply(a, b) {
     let bigger = a < b ? b : a
@@ -14,8 +16,6 @@ function minProduct(smaller, bigger, memo) {
         return 0
     } else if (smaller === 1) {
         return bigger;
-    } else if (memo[smaller] > 0) {
-        return memo[smaller]
     }
 
 
