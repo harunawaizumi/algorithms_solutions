@@ -2,6 +2,7 @@
   <dictionary name="haruna">
     <words>
       <w>dequeue</w>
+      <w>parens</w>
     </words>
   </dictionary>
 </component>

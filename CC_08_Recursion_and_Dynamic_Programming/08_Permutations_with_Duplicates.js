@@ -9,10 +9,10 @@ let temp;
 let checked = []
 let curr;
 
-function printPerms(s) {
-    let result = new Array()
+function getPerms(s) {
+    let result = []
     let map = buildFreqTable(s)
-    printPerms(map, '', s, result)
+    printPerms(map, '', s.length, result)
     return result;
 }
 
@@ -32,32 +32,25 @@ function buildFreqTable(s) {
 }
 
 function printPerms(map, prefix, remaining, result){
-    if (remaining === null) {
-        return null
-    }
-    if (remaining.length === 0) {
+    if (remaining === 0) {
         result.push(prefix)
         return
     }
 
-    let count;
-    let curr;
-    for(let i = 0; i < remaining.length; i++) {
-        curr = remaining.charAt(i)
-        count = map[curr]
-        before = remaining.substring(0, i)
-        after = remaining.substirng(i + 1)
-        if (count > 0) {
-            map[remaining.charAt(i)]--;
-            return printPerms(map, prefix, before + after, result)
+    Object.entries(map).forEach(([ch, count]) => {
+        if (count !== 0) {
+            const newMap = {
+                ...map,
+                [ch]: count - 1
+            }
+            printPerms(newMap, prefix + ch, remaining - 1, result)
         }
-        return getPerms(map, prefix + c, before + after, result)
-    }
-    return result
+    })
 }
 
 
-
-let ans = printPerms('abcda')
+let ans = getPerms('abbccc')
 // 60 = (5 * 4 / 2) * 3 * 2 = 10 * 3 * 2
-console.log(ans)
+ans.forEach(l => {
+    console.log(l)
+})

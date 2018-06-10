@@ -39,4 +39,6 @@ function getPerms(prefix, remainder, result) {
 
 
 let ans = getPerms('', 'abcde', result)
-console.log(ans)
+ans.forEach(l => {
+    console.log(l)
+})
