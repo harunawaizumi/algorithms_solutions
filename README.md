@@ -1,23 +1,33 @@
-Preparing for a Coding Interview in an Effective Way
+How to Prepare for a Coding Interview
 ====
 
+### How software engineers get a job in Silicon Valley ?
+### How they prepare for coding interviews ?
+
+
 If you want to get a good job as an engineer, what you should do and how to prepare ?
-To land one of those popular jobs, you'll have to be strategic about it.
-I was curious how those working for big four(Google, Microsoft, Amazon, Facebook) prepared in advance.
-Some engineer used to get these jobs from overseas without visa.
-They just landed to San Francisco without any connection and ended up getting these jobs.
-How did they do that ? Getting a job as an engineer in Silicon Valley without US citizenship is getting much harder because of US visa system.
-But it's a good to think how you should make a strategy though you learn how these people prepared to get these job.
+To land one of popular jobs, you'll have to be strategic about it.
+I was curious how top-notch software engineers got a job from big four(Google, Microsoft, Amazon, Facebook) in Silicon Valley and how they prepared in advance.
+I heard that some used to go to Silicon valley to get these jobs from overseas.
+They just landed to San Francisco without any connection nor visa, and got hired from a top company. <br />
+How did they do that ? Is that still possible ? How competitive it is ? <br/>
+
+Getting a job as an engineer in Silicon Valley from oversea is getting much harder because of U.S. visa system.
+But it's good to know how you should make a strategy to get a job though you learn how engineers in Silicon Valley prepared to get these job.
+I summarize what I learned through reading lots of blogs and websites on the internet.
+
 
 
 ## Step for Preparation
 
 
+
 ### Picking a Programming Language
-- Python, C, Java are recommended since lots of coding interview book
+- Python, C, Java are recommended since lots of coding interview book has solutions in those languages
 - Most companies will let you code in any language you want, the only exception I have heard Google, where they only allow candidates to pick from Java, C++ or Python for their algorithmic coding interviews.
-  Recommend that you use a language that you are extremely.
+- Use a language you are extremely familiar with.
 - [We analyzed thousands of technical interviews on everything from language to code style. Here’s what we found.](http://blog.interviewing.io/what-really-matters-in-technical-interviews-we-analyzed-thousands-of-interviews-on-everything-from-language-to-code-style-heres-what-we-found/)
+
 
 
 ### Basic Skills
@@ -25,9 +35,12 @@ But it's a good to think how you should make a strategy though you learn how the
     I read an article [How I went from zero to San Francisco software engineer in 12 months](https://medium.freecodecamp.org/how-i-learned-to-code-and-earned-a-job-in-silicon-valley-changing-my-life-along-the-way-a3af854855fa),
     the writer joined freeCodeCamp to gain skills.
 
+
+
 ### Coding Interview
 - [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)
 - [Cracking Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_bxgy_14_img_2/140-9673059-2333521?_encoding=UTF8&pd_rd_i=0984782850&pd_rd_r=7748ecf8-7b09-11e8-a9fc-2715f6184f1b&pd_rd_w=fxy4t&pd_rd_wg=wRHY7&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=3914568618330124508&pf_rd_r=TMNV18M4Y2SBNTNG41KE&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=TMNV18M4Y2SBNTNG41KE)
+
 
 
 ### Collect Tips You Talk in Interviews
@@ -37,15 +50,21 @@ But it's a good to think how you should make a strategy though you learn how the
 - CV
     Write what you want they to ask.
 
+
+
 ### Search Jobs Online
+
 
 - [LinkedIn](https://www.linkedin.com/in/haruna-waizumi-7ab75bb8/)
 - [HackerNews](https://news.ycombinator.com/jobs)
 - [AngelList](https://angel.co/)
 - [Hired.com](https://hired.com/)
 - [TRIPLEBYTE](https://triplebyte.com/)
+
     This company has connection with Y Combinator. You need to pass coding exams and interviews.
     but I'm pretty sure you could get some good information.
+
+
 
 ## Organize Information
 
@@ -55,6 +74,8 @@ But it's a good to think how you should make a strategy though you learn how the
 - Evernote
     What they asked
     What you answered
+
+
 
 ### Coding Interview Preparation
 
@@ -75,6 +96,7 @@ But it's a good to think how you should make a strategy though you learn how the
         14days free trial
 
 
+
 ## Behavior In Interviews
 
 - Be professional
@@ -85,6 +107,7 @@ But it's a good to think how you should make a strategy though you learn how the
 - Never lie
 - Sensitivity Japanese has would be one of your strong points
 - Tech companies don't care how much you want to join, they only care how much skill you have.
+
 
 
 ## Popular Tech Countries in the World
@@ -99,16 +122,19 @@ But it's a good to think how you should make a strategy though you learn how the
     Recommended you start working as an internship to get full-time job later.
     Otherwise, hunting job while you are working in an internship.
     Waterloo in Toronto has lots of tech companies.
+
     #### Recruiting Website
-        - [kijiji](https://www.kijiji.ca/b-jobs/gta-greater-toronto-area/c45l1700272)
-        - [craigslist](https://toronto.craigslist.ca/)
-        - [Monster](https://www.monster.com/)
+
+    -  [kijiji](https://www.kijiji.ca/b-jobs/gta-greater-toronto-area/c45l1700272)
+    -  [craigslist](https://toronto.craigslist.ca/)
+    -  [Monster](https://www.monster.com/)
 
 
 - USA
     Getting a visa in US is not feasible.
     Some used to get H-1B visa, which opens April 1.
     It's fully reserved quickly.
+
 
 
 ## How to Use This Github Code
@@ -118,11 +144,17 @@ These are the answers in Javascript for questions in these two books.
 The reason why I posted these solutions on Gihub is that I couldn't find lots of well organized lists of solutions of these coding questions in Javascript.
 I hope it would help you to learn these books and to get a good job !
 
+
+
 ## 'Grokking Algorithms'
+
+
 
 ### Programming Solutions
 - 01_Binary_search ~ 09_Dynamic_programming
 - in Javascript
+
+
 
 ### What I liked 'Grokking Algorithms' ?
 Well, to be honest, I like the whole book, from Introduction to end.
@@ -148,14 +180,20 @@ These were some of the points which I like but overall Grokking Algorithms is a 
 
 ## 'Cracking Coding Interview'
 
+
+
 ### Programming Solutions
 - CC_00_Big0 ~ CC_10_Sorting_and_Searching
 - in Javascript
+
+
 
 ### What I liked 'Cracking Coding Interview' ?
 
 [Cracking Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_bxgy_14_img_2/140-9673059-2333521?_encoding=UTF8&pd_rd_i=0984782850&pd_rd_r=7748ecf8-7b09-11e8-a9fc-2715f6184f1b&pd_rd_w=fxy4t&pd_rd_wg=wRHY7&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=3914568618330124508&pf_rd_r=TMNV18M4Y2SBNTNG41KE&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=TMNV18M4Y2SBNTNG41KE)is by far the most popular interview prep book for software engineers. It’s a great book.
 A lot of people recommended.
+
+
 
 1. The first quality book to provide a large collection of interview problems that were representative of what you'd be likely to be asked in a tech giant company interview.
 
@@ -163,15 +201,19 @@ A lot of people recommended.
 
 3. The solutions to each problem are explained very clearly and thoroughly, and about as simply as possible (for the required level of complexity) in almost every case.
 
+
+
 ### How to Use This Book
 1. Read a whole book (You can skip some chapters if you don't have time)
 2. Solve questions
 Don't go to the next question without understanding
 3. Repeat questions
 
+
 #### Tips
 Most of big companies like Microsoft, Amazon, Facebook, Twitter use similar questions
 It was written for a few years ago, and software engineering interviews seem to have changed in the meantime, at least in the Silicon Valley engineering culture. Check [Studying for startup interviews with 'Cracking the Coding Interview'](http://shlegeris.com/2016/06/22/ctci). You can see which questions are more relevant.
+
 
 
 ## Algorithm You Should Understand
@@ -181,6 +223,7 @@ It was written for a few years ago, and software engineering interviews seem to 
 - Stacks and Queues
 - Trees and Graphs
 - Recursion
+
 
 
 ## Contribution

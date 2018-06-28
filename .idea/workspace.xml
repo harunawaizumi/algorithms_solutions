@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3d3cd45-13d3-42bb-974b-df3c6762d9ad" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -110,8 +109,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="163" column="168" selection-start-line="163" selection-start-column="168" selection-end-line="163" selection-end-column="168" />
+            <state relative-caret-position="542">
+              <caret line="226" lean-forward="true" selection-start-line="226" selection-end-line="226" />
             </state>
           </provider>
         </entry>
@@ -207,9 +206,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="661" />
+    <option name="x" value="643" />
     <option name="y" value="23" />
-    <option name="width" value="768" />
+    <option name="width" value="786" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectView">
@@ -363,15 +362,15 @@
       <workItem from="1528380336414" duration="5954000" />
       <workItem from="1528635171750" duration="4415000" />
       <workItem from="1528680429024" duration="114000" />
-      <workItem from="1530213989458" duration="8329000" />
+      <workItem from="1530213989458" duration="10469000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130241000" />
+    <option name="totallyTimeSpent" value="132381000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="661" y="23" width="768" height="877" extended-state="0" />
+    <frame x="643" y="23" width="786" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
@@ -782,8 +781,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="163" column="168" selection-start-line="163" selection-start-column="168" selection-end-line="163" selection-end-column="168" />
+        <state relative-caret-position="542">
+          <caret line="226" lean-forward="true" selection-start-line="226" selection-end-line="226" />
         </state>
       </provider>
     </entry>
