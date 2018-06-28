@@ -253,6 +253,31 @@ It was written for a few years ago, and software engineering interviews seem to 
 - Recursion
 
 
+## Reference Materials
+
+[10 Interview Questions
+Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+
+[What are fundamentals you should know before a technical interview?](https://www.quora.com/What-are-fundamentals-you-should-know-before-a-technical-interview)
+
+[Coding Interview University](https://github.com/jwasham/coding-interview-university)
+
+[The 30-minute guide to rocking your next coding interview](https://medium.freecodecamp.org/coding-interviews-for-dummies-5e048933b82b)
+
+[Cracking Coding Interview](https://www.amazon.co.jp/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+
+[BigOcheatSheet](http://bigocheatsheet.com/)
+
+[Engineer Employment Blog](https://postd.cc/tag/engineer-employment/)
+
+[Data Scientist TopCode](https://www.topcoder.com/community/data-science/data-science-tutorials/)
+
+[What? Interview coaching from Googlers! ](http://blog.gainlo.co/index.php/2017/03/03/chapter-3-practice-coding-questions-complete-guide-google-interview-preparation/?utm_campaign=quora&utm_medium=How+effective+is+Leetcode+for+preparing+for+technical+interviews%3F&utm_source=quora)
+
+[best-programming-language-jobs](http://blog.codingforinterviews.com/best-programming-language-jobs/)
+
+[How-do-I-prepare-for-a-software-engineering-job-interview](https://www.quora.com/How-do-I-prepare-for-a-software-engineering-job-interview)
+
 
 ## Contribution
 Feel free to fork and create a Pull Request.

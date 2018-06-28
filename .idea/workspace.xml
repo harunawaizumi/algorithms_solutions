@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3d3cd45-13d3-42bb-974b-df3c6762d9ad" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,7 +20,7 @@
       <file leaf-file-name="02_Robot_in_a_Grid.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/02_Robot_in_a_Grid.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="180">
               <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -40,7 +41,7 @@
       <file leaf-file-name="04_Power_Set.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/04_Power_Set.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
+            <state relative-caret-position="75">
               <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -52,7 +53,7 @@
       <file leaf-file-name="07_Permutations_without_Dups.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/07_Permutations_without_Dups.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
+            <state relative-caret-position="645">
               <caret line="43" column="2" selection-start-line="41" selection-end-line="43" selection-end-column="2" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -64,7 +65,7 @@
       <file leaf-file-name="08_Permutations_with_Duplicates.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/08_Permutations_with_Duplicates.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
+            <state relative-caret-position="570">
               <caret line="38" selection-start-line="38" selection-end-line="38" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -85,7 +86,7 @@
       <file leaf-file-name="10_Paint_Fill.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/10_Paint_Fill.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
+            <state relative-caret-position="60">
               <caret line="4" selection-start-line="4" selection-end-line="4" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -97,7 +98,7 @@
       <file leaf-file-name="11_Coins.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/11_Coins.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="315">
               <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -109,8 +110,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+            <state relative-caret-position="306">
+              <caret line="251" column="8" lean-forward="true" selection-start-line="251" selection-start-column="8" selection-end-line="251" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -132,6 +133,11 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>search</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -327,12 +333,13 @@
       <workItem from="1528380336414" duration="5954000" />
       <workItem from="1528635171750" duration="4415000" />
       <workItem from="1528680429024" duration="114000" />
-      <workItem from="1530213989458" duration="12578000" />
+      <workItem from="1530213989458" duration="12865000" />
+      <workItem from="1530229523530" duration="54000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134490000" />
+    <option name="totallyTimeSpent" value="134831000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="643" y="23" width="786" height="877" extended-state="0" />
@@ -360,19 +367,19 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1626344" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -670,7 +677,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/04_Power_Set.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
+        <state relative-caret-position="75">
           <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -687,7 +694,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/10_Paint_Fill.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="60">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -697,7 +704,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/07_Permutations_without_Dups.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
+        <state relative-caret-position="645">
           <caret line="43" column="2" selection-start-line="41" selection-end-line="43" selection-end-column="2" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -715,7 +722,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/08_Permutations_with_Duplicates.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
+        <state relative-caret-position="570">
           <caret line="38" selection-start-line="38" selection-end-line="38" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -726,7 +733,7 @@
     <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/11_2Coins.js" />
     <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/02_Robot_in_a_Grid.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="180">
           <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -736,7 +743,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/11_Coins.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="315">
           <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -746,8 +753,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        <state relative-caret-position="306">
+          <caret line="251" column="8" lean-forward="true" selection-start-line="251" selection-start-column="8" selection-end-line="251" selection-end-column="8" />
         </state>
       </provider>
     </entry>
