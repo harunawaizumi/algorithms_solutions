@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3d3cd45-13d3-42bb-974b-df3c6762d9ad" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/10_Paint_Fill.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/11_2Coins.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/haruna.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/haruna.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/07_Permutations_without_Dups.js" beforeDir="false" afterPath="$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/07_Permutations_without_Dups.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/08_Permutations_with_Duplicates.js" beforeDir="false" afterPath="$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/08_Permutations_with_Duplicates.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/09_Parens.js" beforeDir="false" afterPath="$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/09_Parens.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/11_Coins.js" beforeDir="false" afterPath="$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/11_Coins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,130 +16,116 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.42004505">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="02_Robot_in_a_Grid.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/02_Robot_in_a_Grid.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="150">
-                  <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-                  <folding>
-                    <element signature="n#!!doc" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="03_Magic_Index.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/03_Magic_Index.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="405">
-                  <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="04_Power_Set.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/04_Power_Set.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="45">
-                  <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-                  <folding>
-                    <element signature="n#!!doc" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="07_Permutations_without_Dups.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/07_Permutations_without_Dups.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="615">
-                  <caret line="43" column="2" selection-start-line="41" selection-end-line="43" selection-end-column="2" />
-                  <folding>
-                    <element signature="n#!!doc" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="08_Permutations_with_Duplicates.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/08_Permutations_with_Duplicates.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="555">
-                  <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-                  <folding>
-                    <element signature="n#!!doc" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="09_Parens.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/09_Parens.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="435">
-                  <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="10_Paint_Fill.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/10_Paint_Fill.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="15">
-                  <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-                  <folding>
-                    <element signature="n#!!doc" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="11_Coins.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/11_Coins.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="311">
-                  <caret line="59" column="15" lean-forward="true" selection-start-line="59" selection-start-column="15" selection-end-line="59" selection-end-column="15" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="11_2Coins.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/11_2Coins.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret lean-forward="true" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="05_Recursive_Multiply.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/05_Recursive_Multiply.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="210">
-                  <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="11_2Coins.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/11_2Coins.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="180">
-                  <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="02_Robot_in_a_Grid.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/02_Robot_in_a_Grid.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03_Magic_Index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/03_Magic_Index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04_Power_Set.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/04_Power_Set.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="07_Permutations_without_Dups.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/07_Permutations_without_Dups.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="43" column="2" selection-start-line="41" selection-end-line="43" selection-end-column="2" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="08_Permutations_with_Duplicates.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/08_Permutations_with_Duplicates.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="09_Parens.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/09_Parens.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="10_Paint_Fill.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/10_Paint_Fill.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="11_Coins.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/11_Coins.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="163" column="168" selection-start-line="163" selection-start-column="168" selection-end-line="163" selection-end-column="168" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05_Recursive_Multiply.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/05_Recursive_Multiply.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -161,7 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/06_Breath_first_search/00_Breath_first_search.js" />
         <option value="$PROJECT_DIR$/06_Breath_first_search/6.0_Breath_first_search.js" />
         <option value="$PROJECT_DIR$/CC_04_Trees_and_Graphs/00_Check_Identical.js" />
         <option value="$PROJECT_DIR$/CC_04_Trees_and_Graphs/10_Check_Subtree.js" />
@@ -210,8 +188,9 @@
         <option value="$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/08_Permutations_with_Duplicates.js" />
         <option value="$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/09_Parens.js" />
         <option value="$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/09_2_Parens.js" />
-        <option value="$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/11_Coins.js" />
         <option value="$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/11_2Coins.js" />
+        <option value="$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/11_Coins.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -228,9 +207,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="410" />
+    <option name="x" value="661" />
     <option name="y" value="23" />
-    <option name="width" value="1019" />
+    <option name="width" value="768" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectView">
@@ -238,6 +217,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -289,7 +269,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -382,22 +361,24 @@
       <workItem from="1528110892285" duration="9485000" />
       <workItem from="1528346429291" duration="481000" />
       <workItem from="1528380336414" duration="5954000" />
-      <workItem from="1528635171750" duration="4189000" />
+      <workItem from="1528635171750" duration="4415000" />
+      <workItem from="1528680429024" duration="114000" />
+      <workItem from="1530213989458" duration="8329000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121572000" />
+    <option name="totallyTimeSpent" value="130241000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="410" y="23" width="1019" height="877" extended-state="0" />
+    <frame x="661" y="23" width="768" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12855741" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32948717" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32948717" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -443,13 +424,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CC_10_Sorting_and_Searching/08_Find_Duplicates.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CC_10_Sorting_and_Searching/03_Search_in_Rotated_Array.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -723,16 +697,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/02_Robot_in_a_Grid.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/03_Magic_Index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -795,17 +759,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/11_Coins.js">
+    <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/11_2Coins.js" />
+    <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/02_Robot_in_a_Grid.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="59" column="15" lean-forward="true" selection-start-line="59" selection-start-column="15" selection-end-line="59" selection-end-column="15" />
+        <state relative-caret-position="150">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/11_2Coins.js">
+    <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/11_Coins.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        <state relative-caret-position="300">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="163" column="168" selection-start-line="163" selection-start-column="168" selection-end-line="163" selection-end-column="168" />
         </state>
       </provider>
     </entry>
