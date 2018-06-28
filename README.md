@@ -1,13 +1,16 @@
 How to Prepare for a Coding Interview
 ====
 
-### How software engineers get a job in Silicon Valley ?
-### How they prepare for coding interviews ?
+* How software engineers get a job in Silicon Valley ? *
+* How they prepare for coding interviews ? *
+
 
 
 If you want to get a good job as an engineer, what you should do and how to prepare ?
 To land one of popular jobs, you'll have to be strategic about it.
 I was curious how top-notch software engineers got a job from big four(Google, Microsoft, Amazon, Facebook) in Silicon Valley and how they prepared in advance.
+
+
 I heard that some used to go to Silicon valley to get these jobs from overseas.
 They just landed to San Francisco without any connection nor visa, and got hired from a top company. <br />
 How did they do that ? Is that still possible ? How competitive it is ? <br/>
@@ -80,17 +83,20 @@ I summarize what I learned through reading lots of blogs and websites on the int
 ### Coding Interview Preparation
 
 1. [GeeksforGeeks](https://www.geeksforgeeks.org/)
+
     Must to learn (Highly recommended!!)
     To learn basic
     No way to avoid. Just repeat practice.
 
 2. [Leetcode](https://leetcode.com/)
+
     Conquer all 70 EASY LEVEL questions completely
     No need to solve all 700 questions
     Takes 2hours for solving one question. But no worry.
     Understand each question perfectly. That's important.
 
 3.  Others
+
     [Interview Cake](https://www.interviewcake.com/)
     [HackerRank](https://www.hackerrank.com/)
         14days free trial
@@ -151,7 +157,7 @@ I hope it would help you to learn these books and to get a good job !
 
 
 ### Programming Solutions
-- 01_Binary_search ~ 09_Dynamic_programming
+- * 01_Binary_search ~ 09_Dynamic_programming *
 - in Javascript
 
 
@@ -183,7 +189,7 @@ These were some of the points which I like but overall Grokking Algorithms is a 
 
 
 ### Programming Solutions
-- CC_00_Big0 ~ CC_10_Sorting_and_Searching
+- * CC_00_Big0 ~ CC_10_Sorting_and_Searching *
 - in Javascript
 
 
@@ -216,12 +222,24 @@ It was written for a few years ago, and software engineering interviews seem to 
 
 
 
-## Algorithm You Should Understand
-- Big O
-- Hash Tables
-- Linked Lists
-- Stacks and Queues
-- Trees and Graphs
+## Top Algorithms and Data Structures You Really Need To Know
+- Searching
+- Linear search
+- Binary search
+- Sorting
+- MergeSort
+- QuickSort
+- Trees
+- Graphs
+    - BFS(Breadth First Search)
+    - DFS(Depth First Search)
+    - Dynamic programming(DP)
+    - Hashing
+    - String pattern matching
+
+- linked lists
+- Arrays
+- Queues
 - Recursion
 
 
