@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3d3cd45-13d3-42bb-974b-df3c6762d9ad" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/algorithms.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cracking_coding_interview.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -65,7 +68,7 @@
         <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/08_Permutations_with_Duplicates.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="555">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -86,7 +89,7 @@
         <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/10_Paint_Fill.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -98,7 +101,7 @@
         <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/11_Coins.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -109,8 +112,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="158" column="57" selection-start-line="158" selection-start-column="57" selection-end-line="158" selection-end-column="57" />
+            <state relative-caret-position="250">
+              <caret line="48" column="58" selection-start-line="48" selection-start-column="58" selection-end-line="48" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -119,7 +122,7 @@
         <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/05_Recursive_Multiply.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -224,46 +227,6 @@
               <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithms" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="01_Binary_search" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="09_Dynamic_programming" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="CC_02_Linked_Lists" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="CC_03_Stacks_and_Queues" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="CC_04_Trees_and_Graphs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="CC_05_Bit_Manipulation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="CC_08_Recursion_and_Dynamic_Programming" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="CC_10_Sorting_and_Searching" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -285,6 +248,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/Cellar/node/7.8.0/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -362,18 +330,18 @@
       <workItem from="1528380336414" duration="5954000" />
       <workItem from="1528635171750" duration="4415000" />
       <workItem from="1528680429024" duration="114000" />
-      <workItem from="1530213989458" duration="11792000" />
+      <workItem from="1530213989458" duration="12332000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133704000" />
+    <option name="totallyTimeSpent" value="134244000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="643" y="23" width="786" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -716,14 +684,14 @@
     <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/05_Recursive_Multiply.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/10_Paint_Fill.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -751,7 +719,7 @@
     <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/08_Permutations_with_Duplicates.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -772,7 +740,7 @@
     <entry file="file://$PROJECT_DIR$/CC_08_Recursion_and_Dynamic_Programming/11_Coins.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -781,8 +749,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="158" column="57" selection-start-line="158" selection-start-column="57" selection-end-line="158" selection-end-column="57" />
+        <state relative-caret-position="250">
+          <caret line="48" column="58" selection-start-line="48" selection-start-column="58" selection-end-line="48" selection-end-column="58" />
         </state>
       </provider>
     </entry>

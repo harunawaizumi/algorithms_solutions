@@ -40,7 +40,15 @@ I summarize what I learned through reading lots of blogs and websites on the int
 
 
 ### Coding Interview
+
+![Algorithms](algorithms.png)
+
+
 - [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)
+
+![cracking_coding_interview](cracking_coding_interview.png)
+
+
 - [Cracking Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_bxgy_14_img_2/140-9673059-2333521?_encoding=UTF8&pd_rd_i=0984782850&pd_rd_r=7748ecf8-7b09-11e8-a9fc-2715f6184f1b&pd_rd_w=fxy4t&pd_rd_wg=wRHY7&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=3914568618330124508&pf_rd_r=TMNV18M4Y2SBNTNG41KE&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=TMNV18M4Y2SBNTNG41KE)
 
 
@@ -156,7 +164,7 @@ I hope it would help you to learn these books and to get a good job !
 
 
 ### Programming Solutions
-- <strong>  01_Binary_search ~ 09_Dynamic_programming  </strong>
+- <strong>  01_Binary_search ~ 09_Dynamic_programming  </strong><br/>
 - in Javascript
 
 
