@@ -1,9 +1,8 @@
 How to Prepare for a Coding Interview
 ====
 
-* How software engineers get a job in Silicon Valley ? *
-* How they prepare for coding interviews ? *
-
+** How software engineers get a job in Silicon Valley ? **
+** How they prepare for coding interviews ? **
 
 
 If you want to get a good job as an engineer, what you should do and how to prepare ?
@@ -157,7 +156,7 @@ I hope it would help you to learn these books and to get a good job !
 
 
 ### Programming Solutions
-- * 01_Binary_search ~ 09_Dynamic_programming *
+- ** 01_Binary_search ~ 09_Dynamic_programming **
 - in Javascript
 
 
@@ -189,7 +188,7 @@ These were some of the points which I like but overall Grokking Algorithms is a 
 
 
 ### Programming Solutions
-- * CC_00_Big0 ~ CC_10_Sorting_and_Searching *
+- ** CC_00_Big0 ~ CC_10_Sorting_and_Searching **
 - in Javascript
 
 
