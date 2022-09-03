@@ -254,6 +254,8 @@ It was written for a few years ago, and software engineering interviews seem to 
 
 
 ## Reference Materials
+[How Do You Explain API to a 5 Year Old Kid](https://geetima.medium.com/how-do-you-explain-api-to-a-5-year-old-7d70f6986a15)
+
 [TCP/IP](https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet/xcae6f4a7ff015e7d:transporting-packets/a/transmission-control-protocol--tcp)
 
 [10 Interview Questions
